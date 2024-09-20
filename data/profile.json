@@ -39,37 +39,71 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (English4Tech DIO.me Iniciante)"
+    
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Github para mais projetos",
+      "url": "https://github.com/Leokb0824",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto para pratica de css Spiderverso",
+      "url": "https://leokb0824.github.io/sipiderverso/",
+      "github": true
+    },
+    {
+      "name": "Projeto para pratica de tailwind e JavaScript E-Store",
+      "url": "https://leokb0824.github.io/e-store/",
+      "github": true
+    },
+    {
+      "name": "Projeto para pratica de javaScripit Pokedex",
+      "url": "https://leokb0824.github.io/pokedex/",
+      "github": true
+    },
+    {
+      "name": "Projeto para pratica de framework bootstrap",
+      "url": "https://leokb0824.github.io/coffelovers/",
+      "github": true
+    },
+    {
+      "name": "Projeto para pratica de html css JavaScripit",
+      "url": "https://leokb0824.github.io/projeto_gta/",
+      "github": true
+    },
+    {
+      "name": "Projeto para pratica de css",
+      "url": "https://leokb0824.github.io/hboclone/",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Trabalhador volante da Agricultura / SÃO MARTINHO S/A",
+      "period": "Out 2022 - Atual",
+      "description": "Aplicação de defensivos agrícolas, manutenção de equipamentos de aplicação."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Alimentador de linha de produção / WCTOWERS EQUIPAMENTOS E SERVIÇOS LTDA",
+      "period": "Jan 2021 - Abr 2022",
+      "description": "Trabalho com injetora dde plastico, laminação em fibra de vidro."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Vigia / J.C.S SEG PATRIMONIAL LTDA",
+      "period": "Fev 2019 - Jun 2020",
+      "description": "Ronda motorizada, monitoramento de cameras."
+    },
+    {
+      "name": ">Porteiro / J.C.S SEG PATRIMONIAL LTDA",
+      "period": "Dez 2015 - Jun 2018",
+      "description": "Atendimento em portaria , monitoramento de cameras."
+    },
+    {
+      "name": ">Montador de maquinas / TICO - INSTALAÇÕES DE ELEVADORES LTDA",
+      "period": "Nov 2013 - Abr 2015",
+      "description": "Montagem de Elevadores, eletrica (referente a montagem dos elevadores)."
     }
   ]
 }

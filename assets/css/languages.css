@@ -11,10 +11,9 @@
 .languages li {
     display: flex;
     flex-direction: row;
-    align-items: center;    
-    padding: 1rem;
+    align-items: center;
+    padding-right: 1rem;
     font-weight: 700;
-    font-size: 1rem;
 }
 
 .languages li::before {
@@ -24,6 +23,6 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/check.svg');
+    background-image: url('../img/icons/check.svg');
     margin-right: .5rem;
 }
