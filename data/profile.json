@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://github.com/Leokb0824/leo_portifolio/blob/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/Leokb0824/leo_portifolio/refs/heads/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/Leokb0824/leo_portifolio/blob/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/Leokb0824/leo_portifolio/refs/heads/main/data/imgs/css.png"
       },
       {
         "name": "javaScript",
-        "logo": "https://github.com/Leokb0824/leo_portifolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/Leokb0824/leo_portifolio/refs/heads/main/data/imgs/js.png"
       },
       {
         "name": "Github",
-        "logo": "https://github.com/Leokb0824/leo_portifolio/blob/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/Leokb0824/leo_portifolio/refs/heads/main/data/imgs/github.png"
       },
       {
         "name": "Git",
-        "logo": "hhttps://github.com/Leokb0824/leo_portifolio/blob/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/Leokb0824/leo_portifolio/refs/heads/main/data/imgs/git.png"
       }      
     ],
     "softSkills": [
